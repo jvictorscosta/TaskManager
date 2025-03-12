@@ -10,4 +10,4 @@ Requisitos:  projeto de gerenciador de tarefas contendo:
 -listar tarefas por criador
 
 
-Projeto possui o prazo limite de 1 de abril. 
+Projeto possui o prazo limite de 1 de abril/2025 
